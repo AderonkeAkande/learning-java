@@ -29,5 +29,9 @@ public class BasicStrings {
         System.out.println(str8.equalsIgnoreCase(str9));
 
         System.out.println(str9.replace("h", "Helll"));
+
+        String str11 = "Hallo";
+        System.out.println(str11.charAt(1));
+
     }
 }
