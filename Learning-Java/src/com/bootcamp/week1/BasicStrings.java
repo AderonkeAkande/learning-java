@@ -33,5 +33,7 @@ public class BasicStrings {
         String str11 = "Hallo";
         System.out.println(str11.charAt(1));
 
+        String str12 = "switching git branch";
+        System.out.println(str12);
     }
 }
