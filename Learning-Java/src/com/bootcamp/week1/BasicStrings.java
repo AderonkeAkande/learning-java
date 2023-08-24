@@ -35,5 +35,12 @@ public class BasicStrings {
 
         String str12 = "switching git branch";
         System.out.println(str12);
+
+        String s1 = "Hi";
+        String s2 = s1.substring(0,1);
+        String s3 = s2.toLowerCase();
+        System.out.println(s3);
+
+
     }
 }
